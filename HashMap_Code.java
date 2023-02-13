@@ -1,5 +1,3 @@
-package HashMaps;
-
 import java.util.ArrayList;
 import java.util.LinkedList;
 
